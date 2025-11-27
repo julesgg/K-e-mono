@@ -46,7 +46,6 @@ K-e-mono/
 │   └── utils/                  # Optional mathematical and plotting utilities
 │
 └── data/
-    ├── raw/                    # Example raw datasets
     ├── processed/              # Filtered / windowed datasets
     └── models/                 # Trained Random Forest models (sensor_model_sX.pkl)
 
